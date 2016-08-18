@@ -1,0 +1,4 @@
+﻿  CNOS Chat Client.cpp
+c:\users\antony\documents\visual studio 2015\projects\cnos chat client\cnos chat client\cnos chat client.cpp(33): warning C4018: '<': signed/unsigned mismatch
+  CNOS Chat Client.vcxproj -> C:\Users\Antony\Documents\Visual Studio 2015\Projects\CNOS Chat Client\Debug\CNOS Chat Client.exe
+  CNOS Chat Client.vcxproj -> C:\Users\Antony\Documents\Visual Studio 2015\Projects\CNOS Chat Client\Debug\CNOS Chat Client.pdb (Full PDB)
