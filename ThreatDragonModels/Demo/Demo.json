@@ -5,8 +5,18 @@
     "description": "Test to see if this relevant"
   },
   "detail": {
-    "contributors": [],
-    "diagrams": [],
+    "contributors": [
+      {
+        "name": "Bobby"
+      }
+    ],
+    "diagrams": [
+      {
+        "title": "Demo",
+        "thumbnail": "./public/content/images/thumbnail.jpg",
+        "id": 0
+      }
+    ],
     "reviewer": "Bobby"
   }
 }
